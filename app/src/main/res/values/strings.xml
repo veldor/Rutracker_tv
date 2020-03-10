@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Rutracker TV</string>
+    <string name="browse_title">Rutracker</string>
+    <string name="grid_view" translatable="false">Grid view</string>
+    <string name="error_fragment" translatable="false">Error fragment</string>
+    <string name="personal_settings">Settings</string>
+    <string name="torrent" translatable="false">torrent</string>
+    <string name="related_torrents" translatable="false">related torrents</string>
+    <string name="watch_trailer_1" translatable="false">watch_trailer_1</string>
+    <string name="watch_trailer_2" translatable="false">watch_trailer_2</string>
+    <string name="rent_1" translatable="false">rent_1</string>
+    <string name="rent_2" translatable="false">rent_2</string>
+    <string name="buy_1" translatable="false">buy_1</string>
+    <string name="buy_2" translatable="false">buy_2</string>
+    <string name="download_torrent">download torrent</string>
+    <string name="wait_for_internet_message">Waiting for internet connection</string>
+    <string name="wait_for_initialize">Wait for initialize</string>
+    <string name="done_message">Done</string>
+    <string name="failed_message">Failed!</string>
+    <string name="login_autofill_hint">Login</string>
+    <string name="login_label_text">Input you login</string>
+    <string name="password_label_text">Input you password</string>
+    <string name="password_autofill_hint">Password</string>
+    <string name="login_button_text">log me in</string>
+    <string name="login_hint">Insert you login here</string>
+    <string name="password_hint">Insert you password here</string>
+    <string name="empty_login_message">Enter login</string>
+    <string name="empty_password_message">Enter password</string>
+    <string name="sending_request_message">Sending request…</string>
+    <string name="prepare_request_message">Prepare request…</string>
+    <string name="send_request_message">Send request…</string>
+    <string name="response_received_message">Response received!</string>
+    <string name="success_login_message">Success log-in!</string>
+    <string name="search_in_progress">Search in progress</string>
+    <string name="prepare_search_message">Prepare search</string>
+    <string name="handle_results_message">Handle results</string>
+    <string name="results_handled_message">Results handled</string>
+    <string name="search_result_loaded_message">Results added to viewer</string>
+    <string name="search_empty_message">Nothing found…</string>
+    <string name="open_with_message">Open with…</string>
+    <string name="loading_additional_info_message">Loading additional info</string>
+    <string name="begin_torrent_download_message">Begin torrent download…</string>
+    <string name="login_in_process_message">Login in process…</string>
+    <string name="global_settigs_field">Global</string>
+    <string name="hide_no_seed_message">Hide items with no seed</string>
+    <string name="sort_by_message">Sort by</string>
+    <string name="from_low_to_high_message">From low to high</string>
+    <string name="search_in_this_category_message">Search in this category</string>
+    <string name="preferences_message">PREFERENCES</string>
+    <string name="start_search">start search</string>
+    <string name="last_results_message">Last search results</string>
+    <string name="remove_item_message">Remove from history</string>
+    <string name="clear_history_message">Clear search history</string>
+    <string name="search_history_clear_message">Search history cleared</string>
+</resources>

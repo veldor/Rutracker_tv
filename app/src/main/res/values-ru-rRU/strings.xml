@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Рутрекер TV</string>
+    <string name="browse_title">Рутрекер</string>
+    <string name="login_in_process_message">Выполняю вход...</string>
+    <string name="begin_torrent_download_message">Загружаю torrent файл</string>
+    <string name="loading_additional_info_message">Загружаю дополнительную информацию</string>
+    <string name="search_empty_message">По вашему запросу ничего не найдено</string>
+    <string name="open_with_message">Открыть с помощью</string>
+    <string name="search_result_loaded_message">Найденные результаты добавлены</string>
+    <string name="handle_results_message">Обрабатываю найденное</string>
+    <string name="results_handled_message">Результаты обработаны</string>
+    <string name="prepare_search_message">Инициализирую поиск</string>
+    <string name="search_in_progress">Выполняю поиск</string>
+    <string name="success_login_message">Вы успешно вошли на Rutracker!</string>
+    <string name="response_received_message">Получен ответ сервера</string>
+    <string name="send_request_message">Посылаю запрос</string>
+    <string name="prepare_request_message">Инициализирую запрос</string>
+    <string name="sending_request_message">Отправка запроса</string>
+    <string name="empty_password_message">Введите ваш пароль на Rutracker</string>
+    <string name="empty_login_message">Введите ваш логин на Rutracker</string>
+    <string name="login_hint">Логин тут</string>
+    <string name="password_hint">Пароль тут</string>
+    <string name="login_button_text">Войти</string>
+    <string name="login_label_text">Введите логин</string>
+    <string name="password_label_text">Введите пароль</string>
+    <string name="password_autofill_hint">Пароль</string>
+    <string name="login_autofill_hint">Логин</string>
+    <string name="failed_message">Неудача!</string>
+    <string name="done_message">Готово</string>
+    <string name="wait_for_initialize">Инициализирую приложение</string>
+    <string name="wait_for_internet_message">Ожидаю подключение к интернету</string>
+    <string name="download_torrent" translatable="false">Начать просмотр</string>
+    <string name="global_settigs_field">Глобальные настройки</string>
+    <string name="hide_no_seed_message">Скрывать раздачи без раздающих</string>
+    <string name="sort_by_message">Сортировка</string>
+    <string name="from_low_to_high_message">От меньшего к большему</string>
+    <string name="search_in_this_category_message">Поиск в данной категории</string>
+    <string name="preferences_message">Настройки</string>
+    <string name="personal_settings">Настройки</string>
+    <string name="start_search">Выполняю поиск</string>
+</resources>
